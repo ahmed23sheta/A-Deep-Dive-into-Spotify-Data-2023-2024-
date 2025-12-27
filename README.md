@@ -60,5 +60,3 @@ Singles are a powerful tool for reaching peak popularity (100/100) compared to f
 This project sharpened my skills in Data Storytelling, DAX logic, and Dashboard Design. I'm looking forward to applying these insights to more complex datasets!
 
 
-الوسومات (هاشتاغ)#PowerBI الوسومات (هاشتاغ)#DataAnalytics الوسومات (هاشتاغ)#DAX الوسومات (هاشتاغ)#SpotifyInsights الوسومات (هاشتاغ)#DataVisualization الوسومات (هاشتاغ)#BusinessIntelligence الوسومات (هاشتاغ)#DataScience
-تم الانتهاء من تحميل المستند
